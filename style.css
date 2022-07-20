@@ -1,0 +1,76 @@
+
+#Munich_Para {
+    text-align: right;
+    position: right;
+    background-color: rgb(0, 153, 255);
+    font-size: 18px;
+    border-radius: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+#Salzburg_Para {
+    text-align: left;
+    position: left;
+    background-color: rgb(0, 217, 255);
+    font-size: 18px;
+    border-radius: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+body {
+    background-color: rgb(0, 195, 255);
+}
+
+#links {
+    position: center;
+    font-size: 22px;
+    background-color: rgb(83, 218, 166);
+    text-align: center;
+    border-radius: 25px;
+    width: 100px;
+}
+
+#links2 {
+    position: center;
+    font-size: 22px;
+    background-color: rgb(83, 218, 218);
+    text-align: center;
+    border-radius: 25px;
+    width: 100px;
+}
+
+#links3 {
+    position: center;
+    font-size: 22px;
+    background-color: rgb(83, 115, 218);
+    text-align: center;
+    border-radius: 20px;
+    width: 100px;
+}
+
+#links4 {
+    position: center;
+    font-size: 22px;
+    background-color: rgb(103, 83, 218);
+    text-align: center;
+    border-radius: 20px;
+    width: 100px;
+}
+
+#travel {
+    text-align: right;
+    position: right;
+    background-color: rgb(0, 140, 255);
+    font-size: 18px;
+    border-radius: 25px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; 
+}
+
+#food {
+    text-align: left;
+    position: left;
+    background-color: rgb(0, 217, 255);
+    font-size: 18px;
+    border-radius: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;   
+}
